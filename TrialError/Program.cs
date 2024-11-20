@@ -11,7 +11,7 @@
 //Console.WriteLine("Ange förnamn: ");
 
 //Console.Write("Hej");
-Console.Write("");
+Console.Write("h");
 
 
 Console.ReadLine();
